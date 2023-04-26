@@ -10,7 +10,7 @@
 
 - 🌱 I’m currently learning **React** 
 
-- 💬 Ask me about **html , css , bootstrap , javascript , java , react**
+- 💬 Ask me about **Html , Css , Bootstrap , JavaScript , Java , React**
 
 - 📫 How to reach me **pandasoumyasachin@gmail.com**
 
