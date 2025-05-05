@@ -18,11 +18,11 @@
 
 - 📝 I regularly write articles on [https://medium.com/@pandasoumyasachin](https://medium.com/@pandasoumyasachin)
 
-- 💬 Ask me about **HTML , CSS , Bootstrap, Tailwind, JavaScript, React ,Nodejs , Java and Mongodb**
+- 💬 Ask me about **HTML , CSS , Bootstrap, Tailwind, JavaScript, React, Redux, Nodejs, Express.JS , Java and Mongodb**
 
 - 📫 How to reach me **pandasoumyasachin@gmail.com**
 
-- 📄View my resume [https://drive.google.com/file/d/1bq_AFpuQZW9oirgDvz57OAty2MAwASDE/view?usp=sharing](https://drive.google.com/file/d/1bq_AFpuQZW9oirgDvz57OAty2MAwASDE/view?usp=sharing)
+- 📄View my resume [https://drive.google.com/file/d/126aKTmUXXBRQ2W5F4oywqCH127gKdaUu/view?usp=sharing](https://drive.google.com/file/d/126aKTmUXXBRQ2W5F4oywqCH127gKdaUu/view?usp=sharing)
 
 - ⚡ Fun fact **I think I am funny**
 
