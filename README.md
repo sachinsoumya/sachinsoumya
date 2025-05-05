@@ -10,7 +10,7 @@
 
 - 🔭 I’m currently working on [Animick](https://animick.netlify.app/)
 
-- 🌱 I’m currently learning **React , Redux**
+- 🌱 I’m currently learning **React , Redux ,Noejs**
 
 - 👯 I’m looking to collaborate on **Interesting Projects**
 
