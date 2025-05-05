@@ -18,7 +18,7 @@
 
 - 📝 I regularly write articles on [https://medium.com/@pandasoumyasachin](https://medium.com/@pandasoumyasachin)
 
-- 💬 Ask me about **HTML , CSS , Bootstrap, JavaScript , React ,Nodejs , Java and Mongodb**
+- 💬 Ask me about **HTML , CSS , Bootstrap, Tailwind, JavaScript, React ,Nodejs , Java and Mongodb**
 
 - 📫 How to reach me **pandasoumyasachin@gmail.com**
 
